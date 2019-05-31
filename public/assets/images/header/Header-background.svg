@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 1006.71">
+  <defs>
+    <style>.cls-1{fill:url(#linear-gradient);}.cls-2{fill:url(#linear-gradient-2);}</style>
+    <linearGradient id="linear-gradient" x1="600.52" y1="741.41" x2="604.53" y2="1346.72" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#5e5e5e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="597.21" y1="82.35" x2="603.87" y2="1087.81" gradientUnits="userSpaceOnUse">
+      <stop offset="0.01" stop-color="#053257"/>
+      <stop offset="0.44" stop-color="#015daa"/>
+      <stop offset="0.5" stop-color="#0c64ad"/>
+      <stop offset="0.59" stop-color="#2a76b5"/>
+      <stop offset="0.71" stop-color="#5b93c2"/>
+      <stop offset="0.85" stop-color="#9ebbd4"/>
+      <stop offset="1" stop-color="#e8e8e8"/>
+    </linearGradient>
+  </defs>
+  <title>Header svg</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_2-2" data-name="Layer 2">
+      <path class="cls-1" d="M2.73,906.26s47.62-57.89,211.72-3.77a450.86,450.86,0,0,1,51.77,20.89C308.08,943.21,446.65,993.56,626,898c0,0,151.72-101.06,372.86,56.48,0,0,108.24,83,200.4,16.11V721.12H2.73Z"/>
+      <path class="cls-2" d="M0,0V1006.71s110.93-146.57,228.57-162c0,0,77.14-22.5,210.22,72.65,0,0,124.81,92.18,298.67,27a306.69,306.69,0,0,0,56.9-28.72c38-24.22,166-82.57,405.64,23.57V0Z"/>
+    </g>
+  </g>
+</svg>
